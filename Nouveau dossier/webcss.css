@@ -1,0 +1,39 @@
+h1
+{
+font-size: 50px;
+font-family: Fira Mono, monospace;
+}
+
+body
+{
+background-color: black;
+color: white;
+}
+
+#p1
+{
+font-size: 30px;
+font-family: Courier New, monospace;
+}
+
+ul
+{
+font-size: 22px;
+font-family: Courier New, monospace;
+}
+
+h2
+{
+font-size: 40px;
+}
+
+#q
+{
+font-size: 30px;
+font-family: Courier New, monospace;
+}
+.bas
+{
+background-color: #333;
+padding: 20px;
+}
